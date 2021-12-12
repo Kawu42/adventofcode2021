@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Day 3 - Binary Diagnostic/Day3.dart"
+            "program": "Day 4 - Giant Squid/Day4.dart"
         }
     ]
 }
